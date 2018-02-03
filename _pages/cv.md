@@ -11,36 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Electrical Engineering, Sharif University of Technology, 2006
+* Master of Business Admisnitration, Sharif University of Technology, 2008
+* Ph.D in Strategic Management, Rotman School of Management, University of Toronto, 2013 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013-present: Assistant Professor of Strategy & Entrepreneurship
+  * London Business School
   
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Innovation and Collaboration, Specilization and Creativity, Knowledge Recombination, Science Policy
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Work in Progress
+======
+* Collaborating out of Discrimination
+  * Data collection and analysis in progress
+
+* IP Rights and the Discusion of Basic Science
+  * Data collection and analysis in progress
   
 Talks
 ======
