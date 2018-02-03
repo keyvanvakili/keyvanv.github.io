@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Keyvan Vakili"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Keyvan Vakili"
 description              : &description "personal description"
