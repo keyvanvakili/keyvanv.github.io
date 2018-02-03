@@ -37,7 +37,14 @@ Work in Progress
 
 * IP Rights and the Discusion of Basic Science
   * Data collection and analysis in progress
-  
+
+Cases and Teaching Materials
+======
+* Ethiraj S, Vakili K, Zuzul T. 2015. The Petroleum Industry in the UK. London Business School.
+* Ethiraj S, Vakili K, Zuzul T. 2015. Tesco and UK Food and Grocery Retail Industry in 2015. London Business School.
+* Ethiraj S, Vakili K, Zuzul T. 2015. Transocean and Patterson-UTI. London Business School.
+* Ethiraj S, Vakili K, Zuzul T. 2015. Red Bull Enters the United States. London Business School.
+
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -50,6 +57,23 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Honors, Awards, and Scholarships
 ======
-* Currently signed in to 43 different slack teams
+* 2015: AOM TIM Division Best Paper Award Finalist
+* 2014: AOM BPS Division Best Dissertation Award Finalist
+* 2012: Winner of the Best Paper Award (joint with Sarah Kaplan), DRUID Conference 2012
+* 2012: REER Conference Best Student Paper Award Finalist
+
+Professional Activities
+======
+* Member of the Editorial Board of the Strategic Management Journal (2015-present)
+* Representative-at-Large at Strategic Management Society, Knowledge & Innovation Interest Group
+* Member of the BPS Research Committee (2015-2017), Academy of Management
+* Ad hoc reviewer for Organization Science; Management Science; and Research Policy
+
+Recent Non-Academic Experience
+======
+* 2014-present: Member of the Advisory Board, Blanclink Inc.
+* 2016-present: Member of the Advisory Board, PersiangGig Corp.
+* 2007-2008: Founder and CEO, Affiction Games Inc.
+
