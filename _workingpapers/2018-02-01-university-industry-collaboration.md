@@ -2,7 +2,7 @@
 title: "Test"
 collection: 
 permalink: 
-excerpt: 'here is a new summary 1'
+excerpt: 'here is a new summary 2'
 date: 2018-02-01
 venue: 'test again'
 paperurl: 'http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120052'
