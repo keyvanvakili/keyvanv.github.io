@@ -1,6 +1,6 @@
 ---
 title: "Test"
-collection: workingpapers
+collection: 
 permalink: 
 excerpt: 'here is a new summary 1'
 date: 2018-02-01
