@@ -2,7 +2,7 @@
 title: "High on Creativity: The Impact of Social Liberalization Policies on Innovation"
 collection: publications
 permalink: /publication/2018-01-25-high-on-creativity
-excerpt: 'We use a large-sample inductive approach to explore the impact of two social liberalization policies (legalization of same-sex civil unions and medical marijuana) and one anti-liberalization policy (passage of abortion restrictions) on innovation. First, we show that liberalization policies increase state-level patenting while the anti-liberalization policy reduces patenting. Next, we examine three possible mechanisms that could explain the findings. The results suggest...[<u><b>Read more</b></u>](/publication/2018-01-25-high-on-creativity)'
+excerpt: 'We use a large-sample inductive approach to explore the impact of two social liberalization policies (legalization of same-sex civil unions and medical marijuana) and one anti-liberalization policy (passage of abortion restrictions) on innovation. First, we show that liberalization policies increase state-level patenting while the anti-liberalization policy reduces patenting. Next, we examine three possible mechanisms that could explain the findings. The results suggest...'
 date: 2018-01-25
 venue: 'Strategic Management Journal'
 paperurl: 'http://onlinelibrary.wiley.com/doi/10.1002/smj.2778/abstract'
