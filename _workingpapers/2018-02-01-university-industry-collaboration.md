@@ -1,7 +1,7 @@
 ---
 title: "Test"
-collection: publications
-permalink: /publication/2018-02-01-university-industry-collaboration
+collection: workingpapers
+permalink: /workingpaper/2018-02-01-university-industry-collaboration
 excerpt: 'On August 9th, 2001, the federal government of the United States announced a policy restricting federal funds available for research on human embryonic stem cell (hESCs) out of concern for the “vast ethical mine fields” associated with the creation of embryos for research purposes. Until the policy was repealed on March 9th, 2009, no U.S. federal funds were available for research on hESCs extracted after August 9, 2001, and only limited federal funds were available for research on a subset of hESC lines that had previously been extracted. This paper analyzes how the 2001 U.S. federal funding restrictions influenced the quantity and geography of peer-reviewed journal publications on hESC. The primary finding is that the 2001 policy did not have a significant aggregate effect on hESC research in the U.S. [<u><b>Read more</b></u>](/publication/2015-03-01-progress-in-hESC)'
 date: 2018-02-01
 venue: 'Test'
