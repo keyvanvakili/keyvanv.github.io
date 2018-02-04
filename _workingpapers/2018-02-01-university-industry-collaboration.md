@@ -3,8 +3,8 @@ title: "Test"
 collection: 
 permalink: 
 excerpt: 'here is a new summary 1'
-date: 
-venue: 
+date: 2018-02-01
+venue: 'test again'
 paperurl: 'http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120052'
 citation: 'Vakili, K., McGahan, A. M., Rezaie, R., Mitchell, W., Daar, A. S. (2015). &quot;Progress in Human Embryonic Stem Cell Research in the United States between 2001 and 2010.&quot; <i>PLoS ONE</i>. 10(3): e0120052.'
 ---
