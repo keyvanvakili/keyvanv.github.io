@@ -67,13 +67,6 @@ Teaching
   {% endfor %}</ul>
 
 
-<!--Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>--!>
-
-
 Honors, Awards, and Scholarships
 ======
 * 2017: Listed in ["The Favorite Professors Of Top MBAs"] (https://poetsandquants.com/2017/06/14/favorite-professors-top-mbas/) by Poets and Quants
