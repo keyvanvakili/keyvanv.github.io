@@ -28,27 +28,21 @@ Research Interests
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Under Review
 ======
-  <ul>{% for post in site.underreviewpapers %}
+  <ul>{% for post in site.underreviewpapers reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Work in Progress
 ======
-  <ul>{% for post in site.workingpapers %}
+  <ul>{% for post in site.workingpapers reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-* Collaborating out of Discrimination
-  * Data collection and analysis in progress
-
-* IP Rights and the Discusion of Basic Science
-  * Data collection and analysis in progress
 
 Cases and Teaching Materials
 ======
@@ -57,16 +51,16 @@ Cases and Teaching Materials
 * Ethiraj S, Vakili K, Zuzul T. 2015. Transocean and Patterson-UTI. London Business School.
 * Ethiraj S, Vakili K, Zuzul T. 2015. Red Bull Enters the United States. London Business School.
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Honors, Awards, and Scholarships
