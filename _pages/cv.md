@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering, Sharif University of Technology, 2006
-* Master of Business Admisnitration, Sharif University of Technology, 2008
 * Ph.D in Strategic Management, Rotman School of Management, University of Toronto, 2013 
+  * Thesis Topic: Interaction between Competition, Collaboration and Innovation in Knowledge Industries
+  * Committee: Anita McGahan (chair), Ajay Agrawal, Sarah Kaplan, Brian Silverman
+* Master of Business Admisnitration, Sharif University of Technology, 2008
+* B.S. in Electrical Engineering, Sharif University of Technology, 2006
 
 Work experience
 ======
@@ -29,9 +31,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Under Review
+======
+  <ul>{% for post in site.underreviewpapers %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Work in Progress
 ======
+  <ul>{% for post in site.workingpapers %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 * Collaborating out of Discrimination
   * Data collection and analysis in progress
 
@@ -59,6 +71,7 @@ Teaching
   
 Honors, Awards, and Scholarships
 ======
+* 2017: Listed in ["The Favorite Professors Of Top MBAs"] (https://poetsandquants.com/2017/06/14/favorite-professors-top-mbas/) by Poets and Quants
 * 2015: AOM TIM Division Best Paper Award Finalist
 * 2014: AOM BPS Division Best Dissertation Award Finalist
 * 2012: Winner of the Best Paper Award (joint with Sarah Kaplan), DRUID Conference 2012
