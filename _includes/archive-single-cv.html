@@ -44,6 +44,8 @@
       <p class="archive__item-excerpt" itemprop="description">{{ post.status }} <b><i>{{ post.venue }}</i></b></p>
     {% elsif post.collection == 'publications' %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p>
+    {% elsif post.collection == 'teaching' %}
+      <p class="archive__item-excerpt" itemprop="description">with</p>
     {% endif %}
     </li>
  </article>
