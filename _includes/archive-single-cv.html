@@ -36,9 +36,7 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.collection == 'teaching' %}
-      <p class="archive__item-excerpt" itemprop="description">with</p>
-    {% elseif post.collection == 'workingpapers' and post.coauthors %}
+    {% if post.collection == 'workingpapers' and post.coauthors %}
       <p class="archive__item-excerpt" itemprop="description">with {{post.coauthors}}</p>
     {% elsif post.collection == 'underreviewpapers' and post.coauthors %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.status }} <b><i>{{ post.venue }}</i></b>; (with {{post.coauthors}})</p>
