@@ -43,7 +43,7 @@ layout: default
         {% elsif page.collection== 'workingpapers' %}
           <p>Last update: {{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }} </p>
         {% elsif page.collection== 'underreviewpapers' %}
-          <p>Under review in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>{{ post.status }}<i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
