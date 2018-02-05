@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Keyvan Vakili"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Keyvan Vakili"
 description              : &description "personal description"
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "keyvanvakili"
-  orcid            : "https://orcid.org/0000-0002-9180-9360"
+  orcid            : #"https://orcid.org/0000-0002-9180-9360"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
