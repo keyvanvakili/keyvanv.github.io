@@ -47,7 +47,7 @@
         {% elsif post.collection == 'workingpapers' %}
           <p>Last update: {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }} </p>
         {% elsif post.collection == 'underreviewpapers' %}
-          <p>Under review in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>{{ post.status }}<i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <b><i>{{ post.venue }}</i></b>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
