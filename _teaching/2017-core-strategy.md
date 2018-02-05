@@ -1,5 +1,5 @@
 ---
-title: "Core Strategy (2013-present)"
+title: "Core Strategy"
 collection: teaching
 type: "MBA Programme"
 permalink: /teaching/2014-spring-teaching-1
