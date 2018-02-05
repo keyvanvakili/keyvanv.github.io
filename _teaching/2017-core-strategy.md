@@ -5,6 +5,7 @@ type: "MBA Programme"
 permalink: /teaching/2014-spring-teaching-1
 venue: "London Business School, Strategy and Entrepreneurship"
 date: 2017-09-01
+startingyear: 2013
 location: "London, UK"
 ---
 
