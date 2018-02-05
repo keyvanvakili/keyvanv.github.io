@@ -69,7 +69,7 @@ Teaching
 
 Honors, Awards, and Scholarships
 ======
-* 2017: Listed in ["The Favorite Professors Of Top MBAs"](https://poetsandquants.com/2017/06/14/favorite-professors-top-mbas/) by Poets and Quants
+* 2017: Listed in [<u>"The Favorite Professors Of Top MBAs"</u>](https://poetsandquants.com/2017/06/14/favorite-professors-top-mbas/) by Poets and Quants
 * 2015: AOM TIM Division Best Paper Award Finalist
 * 2014: AOM BPS Division Best Dissertation Award Finalist
 * 2012: Winner of the Best Paper Award (joint with Sarah Kaplan), DRUID Conference 2012
