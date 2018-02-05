@@ -1,5 +1,5 @@
 ---
-title: "Innovation and Entrepreneurship (co-taught with Gary Dushnitsky)"
+title: "Innovation and Entrepreneurship (PhD)"
 collection: teaching
 type: "PhD Programme"
 permalink: /teaching/2016-PHD-innovation-entrepreneurship
