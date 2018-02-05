@@ -1,8 +1,8 @@
 ---
-title: "Core Strategy"
+title: "Core Strategy (MBA)"
 collection: teaching
 type: "MBA Programme"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2017-MBA-core-strategy
 venue: "London Business School, Strategy and Entrepreneurship"
 date: 2017-09-01
 startingyear: 2013
