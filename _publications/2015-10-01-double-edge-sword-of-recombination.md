@@ -15,7 +15,8 @@ coauthors: 'Sarah Kaplan (UofT)'
 
 Media Coverage
 =====
-**Knowledge@Wharton** 
+Knowledge@Wharton 
+------
 [<b>Are You Brainstorming the Right Way for Innovation?</b>](http://knowledge.wharton.upenn.edu/article/brainstorming-right-way-innovation/)
 
 Listen to amazing Sarah Kaplan discussing our paper on Knowedge@Wharton: 
@@ -24,5 +25,6 @@ Listen to amazing Sarah Kaplan discussing our paper on Knowedge@Wharton:
 Your browser does not support the audio element.
 </audio>
 
-**Ideas for Leaders**
+Ideas for Leaders
+------
 [Broad Knowledge or Narrow Expertise: What Works Best for Innovation?](https://www.ideasforleaders.com/ideas/broad-knowledge-or-narrow-expertise-what-works-best-for-innovation)
