@@ -17,6 +17,7 @@ coauthors: 'Sarah Kaplan (UofT)'
 
 Media Coverage
 =====
+
 Knowledge@Wharton 
 ------
 [Are You Brainstorming the Right Way for Innovation?](http://knowledge.wharton.upenn.edu/article/brainstorming-right-way-innovation/)
