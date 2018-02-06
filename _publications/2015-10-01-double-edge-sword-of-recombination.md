@@ -13,11 +13,10 @@ coauthors: 'Sarah Kaplan (UofT)'
 
 [Download the PDF version of the accepted draft here](http://academicpages.github.io/files/paper1.pdf)
 
-<p></p>
+
 
 Media Coverage
 =====
-
 Knowledge@Wharton 
 ------
 [Are You Brainstorming the Right Way for Innovation?](http://knowledge.wharton.upenn.edu/article/brainstorming-right-way-innovation/)
