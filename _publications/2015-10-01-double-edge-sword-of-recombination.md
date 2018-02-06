@@ -15,9 +15,10 @@ coauthors: 'Sarah Kaplan (UofT)'
 
 Media Coverage
 =====
+
 Knowledge@Wharton 
 ------
-[<b>Are You Brainstorming the Right Way for Innovation?</b>](http://knowledge.wharton.upenn.edu/article/brainstorming-right-way-innovation/)
+[Are You Brainstorming the Right Way for Innovation?](http://knowledge.wharton.upenn.edu/article/brainstorming-right-way-innovation/)
 
 Listen to amazing Sarah Kaplan discussing our paper on Knowedge@Wharton: 
 <audio controls>
