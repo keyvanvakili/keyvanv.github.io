@@ -14,10 +14,10 @@ coauthors: 'Anita M. McGahan (UofT)'
 <b>Abstract:</b> Perhaps the most compelling Grand Challenge in health care is addressing diseases that primarily afflict the poor. Policies and practices conceived in high-income countries for improving the lives of patients in low-income countries have been criticized as ineffective or harmful. We examine the impact of one such policy, the World Trade Organization’s 1994 Trade-Related Intellectual Property Rights (TRIPS), which was partly justified by a claim that patents and other intellectual property protections would improve the availability of drugs for “neglected diseases” such as malaria and tuberculosis. There is little evidence associating TRIPS with clinical trials, patents, or trade-in drugs for these diseases. One explanation for this is that basic science is required as a prerequisite to drug development. We theorize, test for, and find evidence that TRIPS encouraged the time-consuming and complex development of managerial institutions required for basic science on neglected diseases. The results indicate an increase in basic science on neglected diseases and in applied science on nonneglected diseases as countries became TRIPS compliant. In newly TRIPS-compliant, low-income countries, scientists intensified basic research on locally relevant diseases. We call for the application of management theories to grand challenges, and to the evaluation of policies such as TRIPS.
 
 <b>Amazing Anita McGahan explaining our findings (2 parts)</b> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xsdIFaz5nuU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> <br></br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xsdIFaz5nuU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IP1FcDN-r0U?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<br></br>
-<br></br>
+<br>
+<br>
 
 Media Coverage
 =====
