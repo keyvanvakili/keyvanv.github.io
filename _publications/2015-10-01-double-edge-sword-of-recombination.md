@@ -31,9 +31,9 @@ Your browser does not support the audio element.
 
 Ideas for Leaders
 ------
-[Broad Knowledge or Narrow Expertise: What Works Best for Innovation?](https://www.ideasforleaders.com/ideas/broad-knowledge-or-narrow-expertise-what-works-best-for-innovation)
-
+A summary for practitioners by Ideas for Leaders: [Broad Knowledge or Narrow Expertise: What Works Best for Innovation?](https://www.ideasforleaders.com/ideas/broad-knowledge-or-narrow-expertise-what-works-best-for-innovation)
 <br>
+
 Rotman School of Management
 -----
 See a brief overview of our findings in this video created by the Rotman School of Management at University of Toronto. 
