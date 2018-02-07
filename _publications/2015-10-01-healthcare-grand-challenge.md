@@ -24,7 +24,7 @@ Media Coverage
 
 London Business School Review
 -----
-[<b>How patents have given medical researchers a shot in the arm</b>](http://bit.ly/2g2Jvkn)
+Click here read the article:[<b>How patents have given medical researchers a shot in the arm</b>](http://bit.ly/2g2Jvkn)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6RipcCfLiyU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
