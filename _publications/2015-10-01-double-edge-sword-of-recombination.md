@@ -21,7 +21,7 @@ Media Coverage
 
 Knowledge@Wharton 
 ------
-[Are You Brainstorming the Right Way for Innovation?](http://knowledge.wharton.upenn.edu/article/brainstorming-right-way-innovation/)
+Sarah Kaplan's interview with Knowledge@Wharton: [Are You Brainstorming the Right Way for Innovation?](http://knowledge.wharton.upenn.edu/article/brainstorming-right-way-innovation/)
 
 Listen to amazing Sarah Kaplan discussing our paper on Knowedge@Wharton: 
 <audio controls>
@@ -33,6 +33,7 @@ Ideas for Leaders
 ------
 [Broad Knowledge or Narrow Expertise: What Works Best for Innovation?](https://www.ideasforleaders.com/ideas/broad-knowledge-or-narrow-expertise-what-works-best-for-innovation)
 
+<br>
 Rotman School of Management
 -----
 See a brief overview of our findings in this video created by the Rotman School of Management at University of Toronto. 
