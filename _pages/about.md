@@ -14,4 +14,4 @@ I am currently focused on two research streams. Through my first research stream
 
 Before joining academia, I was an entrepreneur and worked as a consultant. In 2006, I founded a video game production company, which was acquired by Samsung Co, three years later. As a consultant, I worked with executives in a range of industries such as auto, oil, education, software and hardware. I specialised in topics of strategic planning, business modelling, systems thinking and organisational learning. I currently advise several startups in the fields of mobile apps, semiconductors, and online services.
 
-[Here you can find my page on the London Business School website](https://www.london.edu/faculty-and-research/faculty/profiles/v/vakili-k#.Wnh6gq5l9aR)
+[My page on the London Business School website](https://www.london.edu/faculty-and-research/faculty/profiles/v/vakili-k#.Wnh6gq5l9aR)
