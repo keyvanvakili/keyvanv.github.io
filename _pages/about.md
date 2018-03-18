@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Keyvan Vakili"
 excerpt: "Keyvan Vakili"
 author_profile: true
 redirect_from: 
