@@ -16,3 +16,10 @@ status: 'Provisionally accepted in '
 <b>Abstract:</b> Prior research suggests that academic scientists who collaborate with firms may experience lower publication rates in their collaborative lines of work due to industry's insistence on IP protection through patenting or secrecy. The main empirical challenge of examining the effect of industry collaboration on scientific productivity is that research projects that involve industry collaborators may be qualitatively different from those that do not. Hence, any difference in subsequent output of academic scientists who collaborate with industry may be driven by differences in the nature of research projects that attract industry collaborators. To address this issue, we exploit the occurrence of simultaneous discoveries where multiple scientists make roughly the same discovery around the same time. Following a simultaneous discovery, we compare the follow-on research output of academic scientists who collaborated with industry on the discovery with that of academic scientists who did not. We find that academic scientists who collaborated with industry produce more follow-on publications and fewer follow-on patents on their collaborative research lines than their academic peers who did not collaborate with industry. Our results suggest that research lines with both scientific and commercial potential provide an opportunity for a productive division of tasks between academic scientists and their industry counterparts, where the former focus on exploiting the scientific opportunities and the latter focus on the commercial ones. We also show that these effects are particularly salient when the industry partner is an established company rather than a startup.
 
 <b>Keywords:</b> University Industry Collaboration, Division of Labor, Economics of Science, Institutional Norms
+
+Media Coverage
+=====
+
+Nature Index 
+------
+[Industry links boost research output](https://www.nature.com/articles/d41586-017-07422-2)
