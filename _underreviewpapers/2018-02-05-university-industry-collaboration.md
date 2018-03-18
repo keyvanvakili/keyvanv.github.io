@@ -22,4 +22,4 @@ Media Coverage
 
 Nature Index 
 ------
-[Industry links boost research output](https://www.nature.com/articles/d41586-017-07422-2)
+![Nature Index Coverage](/images/nature_index_coverage.jpg)[Industry links boost research output](https://www.nature.com/articles/d41586-017-07422-2)
