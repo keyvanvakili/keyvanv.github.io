@@ -27,8 +27,9 @@ LBS Review's coverage of [Health Care’s Grand Challenge: Stimulating Basic Sci
 <br>
 <br>
 **Nature: Industry links boost research output**
-Nature Index coverage of [When Collaboration Bridges Institutions: The Impact of Industry Collaboration on Academic Productivity](/files/university_industry_collaboration.pdf) (with Michael Bikard and Florenta Teodoridis)<br>
+Nature Index coverage of [When Collaboration Bridges Institutions: The Impact of Industry Collaboration on Academic Productivity](/files/university_industry_collaboration.pdf) (with Michael Bikard and Florenta Teodoridis)<br><br>
 [![Nature Index Coverage](/images/nature_index_coverage.jpg)](https://www.nature.com/articles/d41586-017-07422-2)
+<br>
 <br>
 <br>
 **Rotman: The Truth About Innovation**
