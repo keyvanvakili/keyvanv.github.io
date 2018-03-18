@@ -11,7 +11,7 @@ coauthors: 'Sarah Kaplan (UofT)'
 status: 'Under review in '
 
 ---
-[Download the PDF version of the draft here](http://academicpages.github.io/files/organization_of_scientific_work.pdf)
+The download link will be added soon.
 
 <b>Abstract:</b> While innovation has increasingly become a collaborative effort, we do not have a consensus about what types of team configurations might be the most useful for creating innovative outputs. Do teams need to include inventors with knowledge breadth or do they need inventors with deep expertise? Do teams need overlapping knowledge to integrate insights from diverse areas or does this redundancy get in the way of innovation? In this paper, we address these tensions by asking how technological characteristics moderate the relationship between team configuration and innovation outcomes. Focusing on the degree of modularity and the breadth of application, we find that the optimal team configurations in terms of breadth, depth and overlap of knowledge are indeed contingent on the type of technology.
 
