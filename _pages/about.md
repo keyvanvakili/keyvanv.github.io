@@ -1,15 +1,13 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Keyvan Vakili"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Keyvan Vakili
-======
 I am Assistant Professor of Strategy and Entrepreneurship at London Business School. 
 
 My research is broadly focused on understanding the factors that promote creativity and innovation at the individual, team, organisation, and industry levels, using a variety of experimental and quasi-experimental designs, quantitative data methods and textual analysis.
