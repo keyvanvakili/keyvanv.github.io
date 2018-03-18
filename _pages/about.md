@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+Keyvan Vakili
+======
+I am Assistant Professor of Strategy and Entrepreneurship at London Business School. 
+
 My research is broadly focused on understanding the factors that promote creativity and innovation at the individual, team, organisation, and industry levels, using a variety of experimental and quasi-experimental designs, quantitative data methods and textual analysis.
 
 I am currently focused on two research streams. Through my first research stream, I examine the relationship between collaboration and innovation. I am particularly interested in how innovators choose their collaborators, how the composition of innovative teams influence their creative output, how firms and innovative teams can address the tensions between generating novel versus useful innovations, and how the context of innovation moderates the relationship between team composition and creativity. With the second research stream, I study the impact of various public policies such as federal funding and IP regime on the innovative performance of individuals, teams, and organisations. 
@@ -15,3 +19,17 @@ I am currently focused on two research streams. Through my first research stream
 Before joining academia, I was an entrepreneur and worked as a consultant. In 2006, I founded a video game production company, which was acquired by Samsung Co, three years later. As a consultant, I worked with executives in a range of industries such as auto, oil, education, software and hardware. I specialised in topics of strategic planning, business modelling, systems thinking and organisational learning. I currently advise several startups in the fields of mobile apps, semiconductors, and online services.
 
 [My page on the London Business School website](https://www.london.edu/faculty-and-research/faculty/profiles/v/vakili-k#.Wnh6gq5l9aR)
+
+
+Recent Media Coverage
+======
+LBS Review's coverage of [Health Care’s Grand Challenge: Stimulating Basic Science on Diseases that Primarily Afflict the Poor](http://amj.aom.org/content/59/6/1917.short) (with Anita McGahan): [<b>How patents have given medical researchers a shot in the arm</b>](http://bit.ly/2g2Jvkn)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6RipcCfLiyU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br>
+See a brief overview of findings in [The Double-Edged Sword of Recombination in Breakthrough Innovation](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2294) (with Sarah Kaplan) in this video created by the Rotman School of Management at University of Toronto:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IOko5gEFN4Y?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br>
+Nature Index coverage of [When Collaboration Bridges Institutions: The Impact of Industry Collaboration on Academic Productivity](/files/university_industry_collaboration.pdf) (with Michael Bikard and Florenta Teodoridis)<br>
+[![Nature Index Coverage](/images/nature_index_coverage.jpg)](https://www.nature.com/articles/d41586-017-07422-2)
