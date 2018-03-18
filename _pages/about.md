@@ -21,13 +21,16 @@ Before joining academia, I was an entrepreneur and worked as a consultant. In 20
 
 Recent Media Coverage
 ======
+**LBS Review: Stimulating Basic Science on Neglected Diseases**
 LBS Review's coverage of [Health Care’s Grand Challenge: Stimulating Basic Science on Diseases that Primarily Afflict the Poor](http://amj.aom.org/content/59/6/1917.short) (with Anita McGahan): [<b>How patents have given medical researchers a shot in the arm</b>](http://bit.ly/2g2Jvkn)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6RipcCfLiyU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 <br>
-See a brief overview of findings in [The Double-Edged Sword of Recombination in Breakthrough Innovation](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2294) (with Sarah Kaplan) in this video created by the Rotman School of Management at University of Toronto:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IOko5gEFN4Y?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 <br>
+**Nature: Industry links boost research output**
 Nature Index coverage of [When Collaboration Bridges Institutions: The Impact of Industry Collaboration on Academic Productivity](/files/university_industry_collaboration.pdf) (with Michael Bikard and Florenta Teodoridis)<br>
 [![Nature Index Coverage](/images/nature_index_coverage.jpg)](https://www.nature.com/articles/d41586-017-07422-2)
+<br>
+<br>
+**Rotman: The Truth About Innovation**
+Rotman School's overview of findings in [The Double-Edged Sword of Recombination in Breakthrough Innovation](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2294) (with Sarah Kaplan):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IOko5gEFN4Y?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
