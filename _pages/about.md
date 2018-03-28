@@ -21,6 +21,12 @@ Before joining academia, I was an entrepreneur and worked as a consultant. In 20
 
 Recent Media Coverage
 ======
+**US News: Same-Sex Unions, Medical Marijuana Laws Mean More Innovation for States**
+US News coverage of  [High on creativity: The impact of social liberalization policies on innovation](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2778) (with Laurina Zhang): [Same-Sex Unions, Medical Marijuana Laws Mean More Innovation for States](https://www.usnews.com/news/national-news/articles/2018-03-27/same-sex-unions-medical-marijuana-laws-mean-more-innovation-for-states)<br><br>
+[![US News Coverage](/images/usnews_coverage_high_on_creativity.jpg)](https://www.usnews.com/news/national-news/articles/2018-03-27/same-sex-unions-medical-marijuana-laws-mean-more-innovation-for-states)
+<br>
+<br>
+
 **HBR: Legal Marijuana and Gay Marriage Have Been Good for U.S. Innovation**
 Here is a good summary of [High on creativity: The impact of social liberalization policies on innovation](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2778) (with Laurina Zhang) in HBR: [<b>Legal Marijuana and Gay Marriage Have Been Good for U.S. Innovation</b>](https://hbr.org/2018/03/research-legal-marijuana-and-gay-marriage-have-been-good-for-u-s-innovation)<br><br>
 [![HBR Coverage](/images/hbr_coverage_high_on_creativity.jpg)](https://hbr.org/2018/03/research-legal-marijuana-and-gay-marriage-have-been-good-for-u-s-innovation)
