@@ -21,13 +21,19 @@ Before joining academia, I was an entrepreneur and worked as a consultant. In 20
 
 Recent Media Coverage
 ======
+**HBR: Legal Marijuana and Gay Marriage Have Been Good for U.S. Innovation**
+HBR's coverage of [High on creativity: The impact of social liberalization policies on innovation](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2778) (with Laurina Zhang): [<b>Legal Marijuana and Gay Marriage Have Been Good for U.S. Innovation</b>](https://hbr.org/2018/03/research-legal-marijuana-and-gay-marriage-have-been-good-for-u-s-innovation)<br><br>
+[![HBR Coverage](/images/hbr_coverage_high_on_creativity.jpg)](https://hbr.org/2018/03/research-legal-marijuana-and-gay-marriage-have-been-good-for-u-s-innovation)
+<br>
+<br>
+
 **LBS Review: Stimulating Basic Science on Neglected Diseases**
 LBS Review's coverage of [Health Care’s Grand Challenge: Stimulating Basic Science on Diseases that Primarily Afflict the Poor](http://amj.aom.org/content/59/6/1917.short) (with Anita McGahan): [<b>How patents have given medical researchers a shot in the arm</b>](http://bit.ly/2g2Jvkn)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6RipcCfLiyU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 <br>
 **Nature: Industry links boost research output**
-Nature Index coverage of [When Collaboration Bridges Institutions: The Impact of Industry Collaboration on Academic Productivity](/files/university_industry_collaboration.pdf) (with Michael Bikard and Florenta Teodoridis)<br><br>
+Nature Index coverage of [When Collaboration Bridges Institutions: The Impact of Industry Collaboration on Academic Productivity](/files/university_industry_collaboration.pdf) (with Michael Bikard and Florenta Teodoridis): [Industry links boost research output](https://www.nature.com/articles/d41586-017-07422-2)<br><br>
 [![Nature Index Coverage](/images/nature_index_coverage.jpg)](https://www.nature.com/articles/d41586-017-07422-2)
 <br>
 <br>
