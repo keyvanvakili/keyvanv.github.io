@@ -38,6 +38,11 @@ Publications
   {% endfor %}</ul>
 
 
+Other Publications
+======
+* Teodoridis, F., Bikard, M., Vakili, K. (2018). "When Generalists Are Better Than Specialists, and Vice Versa." Harvard Business Review (online), Available at: https://hbr.org/2018/07/when-generalists-are-better-than-specialists-and-vice-versa. 
+* Vakili, K., Zhang, L. (2018). "Research: Legal Marijuana and Gay Marriage Have Been Good for U.S. Innovation." Harvard Business Review (online), Available at: https://hbr.org/2018/03/research-legal-marijuana-and-gay-marriage-have-been-good-for-u-s-innovation.
+  
 Under Review
 ======
   <ul>{% for post in site.underreviewpapers reversed %}
@@ -69,6 +74,7 @@ Teaching
 
 Honors, Awards, and Scholarships
 ======
+* 2018: Junior Faculty Research Award, London Business School 
 * 2017: Listed in [<u>The Favorite Professors Of Top MBAs</u>](https://poetsandquants.com/2017/06/14/favorite-professors-top-mbas/) by Poets and Quants
 * 2015: AOM TIM Division Best Paper Award Finalist
 * 2014: AOM BPS Division Best Dissertation Award Finalist
@@ -78,10 +84,11 @@ Honors, Awards, and Scholarships
 
 Professional Activities
 ======
-* Member of the Editorial Board of the Strategic Management Journal (2015-present)
+* Member of the Editorial Board of the Strategic Management Journal (2015-present) and Organization Science (2017-present)
 * Representative-at-Large at Strategic Management Society, Knowledge & Innovation Interest Group
+* Representative-at-Large at Academy of Management, Technology and Innovation Management Division
 * Member of the BPS Research Committee (2015-2017), Academy of Management
-* Ad hoc reviewer for Organization Science; Management Science; and Research Policy
+* Ad hoc reviewer for Organization Science; Management Science; Administrative Science Quarterly; Journal of Management Studies; Journal of Law, Economics, and Organization; and Research Policy
 
 
 Recent Non-Academic Experience

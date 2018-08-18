@@ -4,7 +4,7 @@ collection: teaching
 type: "MBA Programme"
 permalink: /teaching/2017-MBA-core-strategy
 venue: "London Business School, Strategy and Entrepreneurship"
-date: 2017-09-01
+date: 2018-08-01
 startingyear: 2013
 location: "London, UK"
 ---
