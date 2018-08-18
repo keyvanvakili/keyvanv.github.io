@@ -8,7 +8,7 @@ venue: 'Strategic Management Journal'
 paperurl: 
 citation:
 coauthors: 'Sarah Kaplan (UofT)'
-status: 'Under review in '
+status: 'R&R in '
 
 ---
 The download link will be added soon.
