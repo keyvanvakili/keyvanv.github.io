@@ -28,7 +28,7 @@ Work experience
 
 Research Interests
 ======
-* Innovation and Collaboration, Specilization and Creativity, Knowledge Recombination, Science Policy
+* Knowledge Recombination, Creativity and Innovation, Specilization and Collaboration, Science Policy
 
 
 Publications
