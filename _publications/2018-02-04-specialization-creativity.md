@@ -17,3 +17,15 @@ coauthors: 'Florenta Teodoridis (USC), Michael Bikard (LBS)'
 Previous version published in Academy of Management Proceedings (2017) under the title of ["Can Specialization Foster Creativity? Mathematics and the Collapse of the Soviet Union"](http://proceedings.aom.org/content/2017/1/16768.short)
 
 <b>Keywords:</b> knowledge specialization and creativity, change and creativity, knowledge frontier, Soviet collapse and productivity of mathematicians
+<br>
+<br>
+
+
+Media Coverage
+=====
+
+HBR.org
+------
+Here is a good summary of the paper in HBR: [<b>When Generalists Are Better Than Specialists, and Vice Versa</b>](https://hbr.org/2018/07/when-generalists-are-better-than-specialists-and-vice-versa)<br><br>
+[![HBR Coverage](/images/hbr_specialists_generalists.jpg)](https://hbr.org/2018/07/when-generalists-are-better-than-specialists-and-vice-versa)
+
