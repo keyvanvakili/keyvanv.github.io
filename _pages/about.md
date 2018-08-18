@@ -23,7 +23,7 @@ Recent Media Coverage
 ======
 **HBR: When Generalists Are Better Than Specialists, and Vice Versa**
 Here is a good summary of the paper in HBR: [<b>When Generalists Are Better Than Specialists, and Vice Versa</b>](https://hbr.org/2018/07/when-generalists-are-better-than-specialists-and-vice-versa)<br><br>
-[![HBR Coverage](/images/hbr_specialists_generalists.jpg)](https://hbr.org/2018/07/when-generalists-are-better-than-specialists-and-vice-versa)
+[![HBR Coverage](/images/hbr_specialists_generalists.JPG)](https://hbr.org/2018/07/when-generalists-are-better-than-specialists-and-vice-versa)
 <br>
 <br>
 
