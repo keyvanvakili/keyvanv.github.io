@@ -8,7 +8,7 @@ venue: 'Organization Science'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3084070'
 citation:
 coauthors: 'Hazhir Rahmandad (MIT)'
-status: 'Under review in '
+status: 'Under second review in '
 
 ---
 [Download the PDF version of the draft here](/files/organization_of_scientific_work.pdf)
