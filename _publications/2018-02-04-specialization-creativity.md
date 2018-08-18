@@ -2,7 +2,7 @@
 title: "Creativity at the Knowledge Frontier: The Impact of Specialization in Fast- and Slow-paced Domains"
 collection: publications
 permalink: /publication/2018-02-04-specialization-creativity
-excerpt: "Using the impact of the Soviet Union’s collapse on the performance of theoretical mathematicians as a natural experiment, we attempt to resolve the controversy in prior research on whether specialists or generalists have superior creative performance. While many have highlighted generalists’ advantage due to access to a wider set of knowledge components, others have underlined the benefits that specialists can derive from their deep expertise. We argue that this disagreement might be partly driven by the fact that the pace of change in a knowledge domain shapes the relative return from being a specialist or a generalist...#"
+excerpt: "Using the impact of the Soviet Union’s collapse on the performance of theoretical mathematicians as a natural experiment, we attempt to resolve the controversy in prior research on whether specialists or generalists have superior creative performance. While many have highlighted generalists’ advantage due to access to a wider set of knowledge components, others have underlined the benefits that specialists can derive from their deep expertise. We argue that this disagreement might be partly driven by the fact that the pace of change in a knowledge domain shapes the relative return from being a specialist or a generalist..."
 date: 2018-02-04
 venue: 'Administrative Science Quarterly'
 paperurl: 'http://journals.sagepub.com/doi/abs/10.1177/0001839218793384'
