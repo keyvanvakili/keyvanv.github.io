@@ -1,12 +1,12 @@
 ---
-title: "When Collaboration Bridges Institutions: The Impact of Industry Collaboration on Academic Productivity"
+title: "When Collaboration Bridges Institutions: The Impact of University-Industry Collaboration on Academic Productivity"
 collection: publications
 permalink: /publication/2018-02-03-university-industry-collaboration
 excerpt: "Prior research suggests that academic scientists who collaborate with firms may experience lower publication rates in their collaborative lines of work due to industry's insistence on IP protection through patenting or secrecy. The main empirical challenge of examining the effect of industry collaboration on scientific productivity is that research projects that involve industry collaborators may be qualitatively different from those that do not. Hence, any difference in subsequent output of academic scientists who collaborate with industry may be driven by differences in the nature of research projects that attract industry collaborators. To address this issue, we exploit the occurrence of simultaneous discoveries where multiple scientists make roughly the same discovery around the same time. Following a simultaneous discovery, we compare the follow-on research output of academic scientists who collaborated with industry on the discovery with that of academic scientists who did not. We find that academic scientists who collaborated with industry produce more follow-on publications and fewer follow-on patents on their collaborative research lines than their academic peers who did not collaborate with industry. Our results suggest..."
 date: 2018-02-03
 venue: 'Organization Science'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2883365'
-citation:
+citation: 'Bikard, M., Vakili, K., Teodoridis, F.,  (Forthcoming). &quot;When Collaboration Bridges Institutions: The Impact of University-Industry Collaboration on Academic Productivity&quot; <i>Organization Science</i>.'
 coauthors: 'Florenta Teodoridis (USC), Michael Bikard (LBS)'
 
 ---

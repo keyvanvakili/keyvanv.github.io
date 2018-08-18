@@ -59,6 +59,7 @@ Work in Progress
 
 Cases and Teaching Materials
 ======
+* Mylonadis Y, Vakili K. 2018. Valve enters the game console industry. London Business School.
 * Ethiraj S, Vakili K, Zuzul T. 2015. The Petroleum Industry in the UK. London Business School.
 * Ethiraj S, Vakili K, Zuzul T. 2015. Tesco and UK Food and Grocery Retail Industry in 2015. London Business School.
 * Ethiraj S, Vakili K, Zuzul T. 2015. Transocean and Patterson-UTI. London Business School.
