@@ -6,7 +6,7 @@ excerpt: 'We use a large-sample inductive approach to explore the impact of two 
 date: 2018-01-25
 venue: 'Strategic Management Journal'
 paperurl: 'http://onlinelibrary.wiley.com/doi/10.1002/smj.2778/abstract'
-citation: 'Vakili, K., Zhang, L. (2018). &quot;High on Creativity: The Impact of Social Liberalization Policies on Innovation.&quot; <i>Strategic Management Journal</i>. DOI: 10.1002/smj.2778.'
+citation: 'Vakili, K., Zhang, L. (2018). &quot;High on Creativity: The Impact of Social Liberalization Policies on Innovation.&quot; <i>Strategic Management Journal</i>, 39(7): 1860-1886.'
 coauthors: 'Laurina Zhang (Georgia Tech)'
 ---
 [Read the paper on the publisher's website](http://onlinelibrary.wiley.com/doi/10.1002/smj.2778/abstract)<br>
