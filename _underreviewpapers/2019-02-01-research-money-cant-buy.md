@@ -1,9 +1,9 @@
 ---
 title: "The Research Money Can't Buy: Sponsoring Academic Science in the Shadow of Reputational Rewards"
 collection: underreviewpapers
-permalink: /underreviewpaper/2018-02-01-research-money-cant-buy
+permalink: /underreviewpaper/2019-02-01-research-money-cant-buy
 excerpt: "A wide range of organizations sponsor academic science to attract research to topics of strategic interest to the sponsor. Yet we know little about how effectively sponsoring organizations can steer the research direction of academic scientists. Academic scientists face a dual incentive structure. On one hand..."
-date: 2018-02-01
+date: 2019-02-01
 venue: 'Organization Science'
 paperurl: 
 citation:

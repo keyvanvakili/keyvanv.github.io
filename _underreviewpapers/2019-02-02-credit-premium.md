@@ -3,7 +3,7 @@ title: "The Collaboration Credit Premium and the Case of Detrimental Collaborati
 collection: underreviewpapers
 permalink: /underreviewpaper/2018-02-02-credit-premium
 excerpt: "We explore the relationship between collaboration and credit allocation in creative work. A large literature has examined how co-workers split credit for joint work, but this literature has generally viewed credit allocation among collaborators as a zero-sum game. In contrast, we posit that under specific conditions, one should expect credit for joint work to be split in a way that sums up to more than 100&percnt;—a phenomenon which we refer to as the &quot;collaboration credit premium.&quot;..."
-date: 2018-02-02
+date: 2019-02-02
 venue: 'Administrative Science Quarterly'
 paperurl: 
 citation:
