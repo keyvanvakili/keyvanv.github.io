@@ -6,7 +6,7 @@ excerpt: "Using the impact of the Soviet Union’s collapse on the performance o
 date: 2018-02-04
 venue: 'Administrative Science Quarterly'
 paperurl: 'http://journals.sagepub.com/doi/abs/10.1177/0001839218793384'
-citation: 'Teodoridis, F., Bikard, M., Vakili, K. (2018). &quot;Creativity at the Knowledge Frontier: The Impact of Specialization in Fast-and Slow-paced Domains.&quot; <i>Administrative Science Quarterly</i>. DOI:10.1177/0001839218793384.'
+citation: 'Teodoridis, F., Bikard, M., Vakili, K. (2019). &quot;Creativity at the Knowledge Frontier: The Impact of Specialization in Fast-and Slow-paced Domains.&quot; <i>Administrative Science Quarterly</i>, 64(4): 894-927.'
 coauthors: 'Florenta Teodoridis (USC), Michael Bikard (LBS)'
 ---
 [Read the paper on the publisher's website](http://journals.sagepub.com/doi/abs/10.1177/0001839218793384)<br>

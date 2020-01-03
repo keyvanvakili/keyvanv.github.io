@@ -6,7 +6,7 @@ excerpt: "ncreasingly, management researchers are using topic modeling, a new me
 date: 2019-04-04
 venue: 'Academy of Management Annals'
 paperurl: 'https://journals.aom.org/doi/10.5465/annals.2017.0099'
-citation: 'Hannigan, T., Haans, R.F.J., Vakili, K., Tchalian, H., Glaser, V., Wang, M., Kaplan, S., Jennings, P.D. (Forthcoming). &quot;Topic Modeling in Management Research: Rendering New Theory from Textual Data..&quot; <i>Academy of Management Annals</i>.'
+citation: 'Hannigan, T., Haans, R.F.J., Vakili, K., Tchalian, H., Glaser, V., Wang, M., Kaplan, S., Jennings, P.D. 2019. &quot;Topic Modeling in Management Research: Rendering New Theory from Textual Data..&quot; <i>Academy of Management Annals</i>, 13(2): 586-632.'
 coauthors: 'Tim Hannigan (UAlberta), Richard Haans (Rotterdam School of Management), Hovig Tchalian (Claremont), Vern Glaser (UAlberta), Milo Wang (UAlberta), Sarah Kaplan (Rotman), Dev Jennings (Ualberta)'
 ---
 [Read the article on the publisher's website](https://journals.aom.org/doi/10.5465/annals.2017.0099)<br>
