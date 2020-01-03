@@ -4,7 +4,7 @@ collection: teaching
 type: "EMBA Programme"
 permalink: /teaching/2017-EMBA-core-strategy
 venue: "London Business School, Strategy and Entrepreneurship"
-date: 2018-06-01
+date: 2020-06-01
 startingyear: 2016
 location: "London, UK"
 ---

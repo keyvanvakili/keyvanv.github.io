@@ -4,7 +4,7 @@ collection: teaching
 type: "MBA Programme"
 permalink: /teaching/2017-MBA-digital-strategy
 venue: "London Business School, Strategy and Entrepreneurship"
-date: 2018-08-05
+date: 2020-08-05
 startingyear: 2017
 location: "London, UK"
 ---
