@@ -59,6 +59,7 @@ Work in Progress
 
 Cases and Teaching Materials
 ======
+* Mylonadis Y, Vakili K. 2019. The SVOD challenge to the UK media landscape: Background note. London Business School.
 * Mylonadis Y, Vakili K. 2018. Valve enters the game console industry. London Business School.
 * Ethiraj S, Vakili K, Zuzul T. 2015. The Petroleum Industry in the UK. London Business School.
 * Ethiraj S, Vakili K, Zuzul T. 2015. Tesco and UK Food and Grocery Retail Industry in 2015. London Business School.
@@ -75,6 +76,7 @@ Teaching
 
 Honors, Awards, and Scholarships
 ======
+* 2019: Junior Faculty Research Award, London Business School 
 * 2018: Junior Faculty Research Award, London Business School 
 * 2017: Listed in [<u>The Favorite Professors Of Top MBAs</u>](https://poetsandquants.com/2017/06/14/favorite-professors-top-mbas/) by Poets and Quants
 * 2015: AOM TIM Division Best Paper Award Finalist
@@ -85,11 +87,11 @@ Honors, Awards, and Scholarships
 
 Professional Activities
 ======
-* Member of the Editorial Board of the Strategic Management Journal (2015-present) and Organization Science (2017-present)
+* Member of the Editorial Board of the Strategic Management Journal (2015-present), Organization Science (2017-present), and Strategic Entrepreneurship Journal (2019-present)
 * Representative-at-Large at Strategic Management Society, Knowledge & Innovation Interest Group
 * Representative-at-Large at Academy of Management, Technology and Innovation Management Division
 * Member of the BPS Research Committee (2015-2017), Academy of Management
-* Ad hoc reviewer for Organization Science; Management Science; Administrative Science Quarterly; Journal of Management Studies; Journal of Law, Economics, and Organization; and Research Policy
+* Ad hoc reviewer for Organization Science; Management Science; Administrative Science Quarterly; Journal of Management Studies; Strategy Science; Journal of Law, Economics, and Organization; and Research Policy
 
 
 Recent Non-Academic Experience
