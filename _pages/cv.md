@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[<b><u>Download the PDF version here</u></b>](https://www.london.edu/-/media/files/faculty-and-research/faculty-profiles/se-faculty-cvs/keyvan-vakili---cv---23-jan-2018.pdf)
+[<b><u>Download the PDF version here</u></b>](https://www.london.edu/-/media/files/faculty-and-research/faculty-profiles/se-faculty-cvs/cv---keyvan-vakili---1-jan-2020.pdf)
 
 Education
 ======
