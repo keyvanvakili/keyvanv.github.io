@@ -11,15 +11,6 @@ redirect_from:
 
 [<b><u>Download the PDF version here</u></b>](https://www.london.edu/-/media/files/faculty-and-research/faculty-profiles/se-faculty-cvs/cv---keyvan-vakili---1-jan-2020.pdf)
 
-Education
-======
-* Ph.D in Strategic Management, Rotman School of Management, University of Toronto, 2013 
-  * Thesis Topic: Interaction between Competition, Collaboration and Innovation in Knowledge Industries
-  * Committee: Anita McGahan (chair), Ajay Agrawal, Sarah Kaplan, Brian Silverman
-* Master of Business Admisnitration, Sharif University of Technology, 2008
-* B.S. in Electrical Engineering, Sharif University of Technology, 2006
-
-
 Work experience
 ======
 * 2020-present: Associate Professor of Strategy & Entrepreneurship (with tenure)
@@ -27,6 +18,13 @@ Work experience
 * 2013-2020: Assistant Professor of Strategy & Entrepreneurship
   * London Business School
 
+Education
+======
+* Ph.D in Strategic Management, Rotman School of Management, University of Toronto, 2013 
+  * Thesis Topic: Interaction between Competition, Collaboration and Innovation in Knowledge Industries
+  * Committee: Anita McGahan (chair), Ajay Agrawal, Sarah Kaplan, Brian Silverman
+* Master of Business Admisnitration, Sharif University of Technology, 2008
+* B.S. in Electrical Engineering, Sharif University of Technology, 2006
 
 Research Interests
 ======
