@@ -22,7 +22,9 @@ Education
 
 Work experience
 ======
-* 2013-present: Assistant Professor of Strategy & Entrepreneurship
+* 2020-present: Associate Professor of Strategy & Entrepreneurship (with tenure)
+  * London Business School
+* 2013-2020: Assistant Professor of Strategy & Entrepreneurship
   * London Business School
 
 
