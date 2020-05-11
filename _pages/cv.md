@@ -13,10 +13,10 @@ redirect_from:
 
 Work experience
 ======
-* 2020-present: Associate Professor of Strategy & Entrepreneurship (with tenure)
-* 2013-2020: Assistant Professor of Strategy & Entrepreneurship
-  * London Business School
-
+* London Business School
+  * 2020-present: Associate Professor of Strategy & Entrepreneurship (with tenure)
+  * 2013-2020: Assistant Professor of Strategy & Entrepreneurship
+  
 Education
 ======
 * Ph.D in Strategic Management, Rotman School of Management, University of Toronto, 2013 
